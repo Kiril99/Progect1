@@ -1,0 +1,41 @@
+body{
+	background-color: #00FFFF;
+
+}
+.red{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 500px;
+	top: 70px;
+
+
+}
+.blue{
+	background-color: blue;
+	width: 220px;
+	height: 120px;
+	position: relative;
+	left: 650px;
+	top: -60px;
+	z-index: 3;
+}
+.yellow{
+	background-color: yellow;
+	width: 260px;
+	height: 170px;
+	position: relative;
+	z-index: 2;
+	left:800px; 
+	top:-200px;
+
+}
+.white{
+	background-color: white;
+	width: 250px;
+	height: 200px;
+	position: relative;
+	left:620px; 
+	top:-270px;
+}
